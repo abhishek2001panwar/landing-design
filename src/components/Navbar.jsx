@@ -27,7 +27,7 @@ export default function Navbar() {
   return (
     <div
       ref={navRef}
-      className="max-w-screen-2xl container px-5 mt-5 md:px-3 py-5   flex flex-wrap items-center justify-between mx-auto"
+      className="max-w-screen-2xl container px-5 mt-5 md:px-3 py-5   md:flex flex-wrap items-center justify-between mx-auto"
     >
       <a href="#" className="flex items-center gap-2">
         <span className="self-center text-2xl text-center font-bold  whitespace-nowrap text-black">

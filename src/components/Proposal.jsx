@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Proposal() {
   return (
-    <div className="max-w-screen-2xl relative mt-20 md:mt-32 lg:mt-40 container mx-auto flex flex-col md:flex-row items-center gap-10 md:gap-20 bg-zinc-200 h-auto md:h-[50vh] rounded-md md:rounded-[5vh] p-6 md:p-10 lg:p-16">
+    <div className="max-w-screen-2xl relative mt-20 md:mt-32 lg:mt-52 container mx-auto flex flex-col md:flex-row items-center gap-10 md:gap-20 bg-zinc-200 h-auto md:h-[50vh] rounded-md md:rounded-[5vh] p-6 md:p-10 lg:p-16">
       <div className="md:w-1/2 p-2 md:p-10">
         <h1 className="text-3xl md:text-4xl font-semibold">Proposal</h1>
         <p className="mt-6 md:mt-4 text-gray-500 text-sm md:text-base leading-relaxed">
